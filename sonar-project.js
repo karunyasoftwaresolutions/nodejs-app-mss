@@ -8,7 +8,7 @@ sonarqubeScanner({
 	    'sonar.projectKey':'NodeJsMithunTechnologies',
 	    'sonar.login': '10da2f6d6a54986e439bc870737d491b7efd9e69',
 	    //'sonar.login': 'admin',
-	    //'sonar.password': 'passw0rd',
+	    //'sonar.password': 'password',
             'sonar.projectVersion':'1.0',
 	    'sonar.language':'js',
             'sonar.sourceEncoding':'UTF-8',
