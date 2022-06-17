@@ -44,10 +44,10 @@ app.get("/html", function(req,res){
         //res.type('application/json');
         //res.json({'name': 'Mithun Reddy L'});
         res.send({
-		'name': 'Mithun Technologies',
+		'name': 'Mohan Technologies',
 		'technology': 'DevOps',
-		'contact' : '9980923226',
-		'email': 'devopstrainingblr@gmail.com'
+		'contact' : '8686989972',
+		'email': 'reddymohan973@gmail.com'
 	            });
         
         });
